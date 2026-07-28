@@ -2,9 +2,9 @@
 
 # 🚀 Nexus AI Agent Studio
 
-## React single-page marketing site with an Express API and MySQL lead capture.
+## Intelligent AI Solutions for Modern Businesses
 
-### Intelligent AI Solutions for Modern Businesses
+#### <-- Project is built as a React single-page marketing site with an Express API and MySQL lead capture. -->
 
 _Design • Develop • Deploy • Scale_
 
