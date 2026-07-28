@@ -2,6 +2,8 @@
 
 # 🚀 Nexus AI Agent Studio
 
+## React single-page marketing site with an Express API and MySQL lead capture.
+
 ### Intelligent AI Solutions for Modern Businesses
 
 _Design • Develop • Deploy • Scale_
@@ -225,6 +227,22 @@ This project is licensed under the MIT License.
 ## AI Agent Studio
 
 **Engineering Intelligence Through Artificial Intelligence**
+
+## Local setup for MySQL Database
+
+1. Create the database and table using `database/schema.sql`.
+2. Copy `.env.example` to `.env`, then add your MySQL credentials. Never commit `.env`.
+3. Install packages with `npm install`.
+4. Start the web app and API together with `npm run dev`.
+
+The web app runs at the Vite URL shown in the terminal (normally `http://localhost:5173`), and the API runs on `http://localhost:3001`.
+
+## API
+
+- `GET /api/health` checks API and database connectivity.
+- `POST /api/leads` saves a contact-form submission. It accepts `name`, `email`, `company` (optional), and `message`.
+
+The Vite development server proxies `/api` requests to port 3001. In production, serve the frontend and Express API behind the same origin or point the frontend's API requests at your deployed API URL.
 
 Built with ❤️ using React, JavaScript, Bootstrap, and AI.
 
