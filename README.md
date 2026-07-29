@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Nexus AI Agent Studio
+# 🚀 Fingo AI Agent Studio
 
 ## Intelligent AI Solutions for Modern Businesses
 
@@ -74,7 +74,7 @@ Rather than replacing employees, AI Agents augment engineering, operations, manu
 ## AI Technologies
 
 - Large Language Models (LLMs)
-- AI Agents
+- AI Agents - Supervisor and Single-Purpose
 - Retrieval-Augmented Generation (RAG)
 - Python
 - REST APIs
