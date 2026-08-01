@@ -328,7 +328,7 @@ function Navigation() {
         <NavLink className="navbar-brand" to="/">
           <span className="brand-mark">N</span>
           <span>
-            NEXUS<span className="brand-light">/AI</span>
+            FINGO<span className="brand-light">/AI</span>
           </span>
         </NavLink>
         <button
